@@ -12,6 +12,7 @@ to do: add script docstring
 to do: refactor hotkey to create a single list/dict to configure all hotkeys and utility functions to (un)register them
 to do: create the three color bg objects automatically so that it does not require preconfigures scene
 to do: refactor color item so that the names of the items is based on those selected in script property
+to do: create a timer.txt file in p2assets automatically. content: 00:00
 
 Technical Reference:
 https://obsproject.com/docs/scripting.html
